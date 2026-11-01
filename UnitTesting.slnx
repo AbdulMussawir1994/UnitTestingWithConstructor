@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EmployeeApi.Tests.MSTest/EmployeeApi.Tests.MSTest.csproj" />
+  <Project Path="EmployeeApi.Tests.NUnit/EmployeeApi.Tests.NUnit.csproj" />
+  <Project Path="EmployeeApi.Tests.XUnit/EmployeeApi.Tests.XUnit.csproj" />
+  <Project Path="EmployeeApi/EmployeeApi.csproj" />
+</Solution>
